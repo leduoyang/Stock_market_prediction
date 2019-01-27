@@ -16,4 +16,5 @@ Use Technical indicators to train a  Random Forest model for predicting buy and 
 * rsi
 * obv
 
-data : 台指期 historical daily data
+
+data : 台指期 10 years historical daily data
