@@ -1,5 +1,5 @@
-# predict_buy_sell_stocks
-Use Technical indicators to train a  Random Forest model for predicting buy and sell action on stocks  
+# Stock_market_prediction
+Use technical indicators to train a Random Forest model for predicting stock market 
 
 ## prerequisite
 * pandas
